@@ -1,0 +1,3 @@
+add_lunch_combo twrp_H3000X-user
+add_lunch_combo twrp_H3000X-userdebug
+add_lunch_combo twrp_H3000X-eng
