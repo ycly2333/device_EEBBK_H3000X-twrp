@@ -1,5 +1,3 @@
-# Aizawa Hikaru
-
 DEVICE_PATH := device/EEBBK/H3000X
 
 # For building with minimal manifest
@@ -76,6 +74,8 @@ TW_SCREEN_BLANK_ON_BOOT := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
 TW_MTP_DEVICE := /dev/mtp_usb
+TW_EXCLUDE_TWRPAPP := true
+
 # Add Chinese language
 TW_DEFAULT_LANGUAGE := zh_CN
 
