@@ -75,6 +75,7 @@ TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
 TW_MTP_DEVICE := /dev/mtp_usb
 TW_EXCLUDE_TWRPAPP := true
+TW_BRIGHTNESS_PATH := /sys/class/leds/lcd-backlight/brightness
 
 # Add Chinese language
 TW_DEFAULT_LANGUAGE := zh_CN
